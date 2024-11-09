@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/asutimur/stm32f4xx-disc1/App",
+      "program": "/Users/asutimur/stm32f4xx-disc1/App/build/Debug/outDebug"
+    }
+  ]
+}
